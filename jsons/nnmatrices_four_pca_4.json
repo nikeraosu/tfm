@@ -1,0 +1,15 @@
+{
+    "orig_folder": "./experimentos/pca_clustering/",
+    "der_folder": "DOES NOT EXIST",
+    "dest_folder": "/four/pca_4/",
+    "n_components":4,
+    "n_clusters":4,
+    "pca_labels":["pca0", "pca1", "pca2", "pca3"],
+    "scores_file": "ghi_output_haurwitz/dh3/scores/scores_dh3.csv",
+    "days_info": "experimentos/pca_clustering/days_info.csv",
+    "seed": 1,
+    "scores_threshold": 0.5,
+    "score_to_use": "score_threshold_0.35",
+    "derivative": 0
+}
+

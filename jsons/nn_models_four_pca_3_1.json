@@ -1,0 +1,13 @@
+{
+    "orig_folder": "experimentos/pca_clustering/four/pca_3/cluster_1",
+    "hor_pred": ["10s","30s","1min","2min","5min","10min"],
+    "dest_folder": "/results_NN_300_300_300_seed_1",
+    "days_info": "experimentos/pca_clustering/four/pca_3/cluster_1/days_info.csv",
+    "features": [["all"]],
+    "train_size": [1],
+    "hls": [300, 300, 300],
+    "alpha": [0.0001],
+    "time_granularity":10,
+    "seed": 1,
+    "station": "dh3"
+}

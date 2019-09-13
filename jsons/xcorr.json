@@ -1,0 +1,11 @@
+{
+    "orig_folder": "ghi_output/",
+    "dest_folder": "crosscorr_b/",
+    "stations": ["dh3","dh4","dh5","dh10","dh11","dh9","dh2","dh1","ap6","ap1","ap3","ap5","ap4","ap7","dh6","dh7","dh8"],
+    "time_granularity": 1,
+    "threshold_1": 0.25,
+    "threshold_2": 0.35,
+    "threshold_3": 0.5,
+    "aggregation": "skip",
+    "relative": true
+}

@@ -1,0 +1,9 @@
+{
+    "orig_folder": "../experimentos/morning/",
+    "der_folder": "DOES NOT EXIST",
+    "dest_folder": "../experimentos/morning_nn",
+    "scores_file": "ghi_output_haurwitz/dh3/scores/scores_dh3.csv",
+    "scores_threshold": 0.5,
+    "score_to_use": "score_threshold_0.35",
+    "derivative": 0
+}

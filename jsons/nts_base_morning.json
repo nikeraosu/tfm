@@ -1,0 +1,115 @@
+{
+    "target_station": "dh3",
+    "orig_folder": "ghi_output_haurwitz/",
+    "dest_folder": "../experimentos/morning_base/",
+    "dest_file_suffix": "matrix.csv",
+    "time_granularity": 10,
+    "params": {
+        "ap1": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31276,
+            "longitude": -158.08389
+        },
+        "ap3": {
+            "nsamples": 0,
+            "offset": 0,
+            "latitude": 21.31281,
+            "longitude": -158.08163
+        },
+        "ap4": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31141,
+            "longitude": -158.07947
+        },
+        "ap5": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.30983,
+            "longitude": -158.08249
+        },
+        "ap6": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.30812,
+            "longitude": -158.07935
+        },
+        "ap7": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31478,
+            "longitude": -158.07785
+        },
+        "dh1": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31533,
+            "longitude": -158.087
+        },
+        "dh2": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31451,
+            "longitude": -158.08534
+        },
+        "dh3": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31236,
+            "longitude": -158.08463
+        },
+        "dh4": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31303,
+            "longitude": -158.08505
+        },
+        "dh5": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31357,
+            "longitude": -158.08424
+        },
+        "dh6": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31179,
+            "longitude": -158.08678
+        },
+        "dh7": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31418,
+            "longitude": -158.08685
+        },
+        "dh8": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31034,
+            "longitude": -158.08675
+        },
+        "dh9": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31268,
+            "longitude": -158.08688
+        },
+        "dh10": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31183,
+            "longitude": -158.08554
+        },
+        "dh11": {
+            "nsamples": 3,
+            "offset": 0,
+            "latitude": 21.31042,
+            "longitude": -158.0853
+        }
+    },
+    "aggregation": "mean",
+    "relative": true,
+    "decimal_pos": 5,
+    "az_el": true
+}

@@ -1,0 +1,20 @@
+{
+    "orig_folder": "experimentos/pca_clustering/three/pca_3/cluster_0/",
+    "model_folder": "experimentos/pca_clustering/three/pca_3/cluster_0/results_NN_300_300_300_seed_1/models",
+    "days_info": "experimentos/pca_clustering/three/pca_3/cluster_0/days_info.csv",
+    "test_days_file": "experimentos/pca_clustering/three/pca_3/cluster_0/X_test.csv",
+    "single_day": "ghi_output_haurwitzK/ap1/20100318_ap1.csv",
+    "hor_pred": ["10s","30s","1min","2min","5min","10min"],
+    "dest_folder": "/test_results/",
+    "features": [["all"]],
+    "train_size": [1],
+    "hls": [300, 300, 300],
+    "alpha": [0.0001],
+    "testing_days": "all",
+    "time_granularity":10,
+    "target_station": "dh3",
+    "seed": 20
+
+
+
+}
